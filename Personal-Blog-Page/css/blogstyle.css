@@ -1,3 +1,46 @@
-.foot {
+body {
+	background-color: lightgray;
+	font-family: Arial, sans-serif;
+	color: #992222;
+}
+
+h3 {
+	padding: 1px 1px;
+	margin: 1px 1px;
+}
+
+section {
+	width: 90%;
+	font-size: 1.0em;
+	border: 1px solid black;
+	padding: 1% 1%;
+	margin: 1% 1%;
+} 
+
+footer {
+	padding-top: 1em;
 	font-size: .6em;
+	line-height: .7em;
+}
+
+#d1 {
+	border-radius: 1px;
+}
+#d2 {
+	border-radius: 2px;
+}
+#d3 {
+	border-radius: 3px;
+}
+#d4 {
+	border-radius: 4px;
+}
+#d5 {
+	border-radius: 5px;
+}
+#d6 {
+	border-radius: 6px;
+}
+#d7 {
+	border-radius: 7px;
 }
